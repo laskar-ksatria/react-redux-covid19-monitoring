@@ -1,0 +1,4 @@
+export const SET_HEADER = 'SET_HEADER';
+export const SET_GLOBAL_DATA = 'SET_GLOBAL_DATA';
+export const SET_DAILY_DATA = 'SET_DAILY_DATA';
+export const SET_DAILY_PERCENTAGES = 'SET_DAILY_PERCENTAGES';

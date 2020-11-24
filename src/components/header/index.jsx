@@ -1,7 +1,6 @@
 import React from 'react';
 import CovidLogo from '../../assets/covid19.png';
-import Robocop from '../../assets/robocop.jpg';
-
+import Person from '../../assets/person.jpg';
 
 function HeaderComponents() {
 
@@ -16,7 +15,7 @@ function HeaderComponents() {
                     <div className="header-right-com">
                 </div>
                     <div className="header-right-com">
-                        <img src={Robocop} width="40" className="user-image" />
+                        <img src={Person} width="40" className="user-image" />
                     </div>
                 </div>
            </div>
